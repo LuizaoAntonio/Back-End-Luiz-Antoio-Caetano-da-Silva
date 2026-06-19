@@ -13,4 +13,4 @@ function podevotar(idade){
     }
 }
 
-console.log(`${podevotar}`)
+console.log(`${podevotar(idade)}`)
