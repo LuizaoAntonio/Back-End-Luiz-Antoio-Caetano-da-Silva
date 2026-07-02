@@ -1,0 +1,2 @@
+### READ - listar todos os alunos ( GET )
+GET http :// localhost :3000/ alunos
