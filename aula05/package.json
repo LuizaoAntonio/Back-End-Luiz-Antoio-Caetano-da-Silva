@@ -1,13 +1,21 @@
 {
+<<<<<<< HEAD
   "name": "penisduro",
   "version": "1.0.0",
   "main": "ex01.js",
+=======
+  "name": "aula05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+>>>>>>> b2e2e88 (dale01pt5)
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "description": "",
   "dependencies": {
     "readline-sync": "^1.4.10"
@@ -20,4 +28,10 @@
     "url": "https://github.com/LuizaoAntonio/aula01/issues"
   },
   "homepage": "https://github.com/LuizaoAntonio/aula01#readme"
+=======
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+>>>>>>> b2e2e88 (dale01pt5)
 }
