@@ -6,7 +6,7 @@ let nome = []
 
 for(let i = 0; i < 3; i++){
     nome = input.question("dale um nome aí meu resenhudo\n")
-    preco = parseFloat(input.question("dale uo preço dele meu labubuzinho\n"))
+    preco = parseFloat(input.question("dale o preço dele meu labubuzinho\n"))
 
     podrutos.push({id: i + 1, nome: nome, preco: preco})
 }
